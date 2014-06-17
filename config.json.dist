@@ -1,0 +1,382 @@
+{
+    "searches": [
+        {
+            "test": "abnel78 dom 100",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 dom 110",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 dom 111",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 tt 100",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 tt 110",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 tt 111",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 int 100",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 int 110",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "abnel78 int 111",
+            "url": "http://abnel78.au.fcl.internal:17680/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage dom 100",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage dom 110",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage dom 111",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage tt 100",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage tt 110",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage tt 111",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage int 100",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage int 110",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "stage int 111",
+            "url": "https://phoenix-stage.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod dom 100",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod dom 110",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod dom 111",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "BNE",
+                "destination": "SYD",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod tt 100",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod tt 110",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod tt 111",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "MEL",
+                "destination": "AKL",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod int 100",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 0,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod int 110",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 0,
+                "cabinClass": "ECONOMY"
+            }
+        },
+        {
+            "test": "prod int 111",
+            "url": "https://phoenix.au.fcl.internal/phoenix/CTWEB/FLGHTCNTR/flights",
+            "query": {
+                "departDate": "20141216",
+                "returnDate": "20141223",
+                "origin": "PER",
+                "destination": "DPS",
+                "adultCount": 1,
+                "childCount": 1,
+                "infantCount": 1,
+                "cabinClass": "ECONOMY"
+            }
+        }
+    ]
+}

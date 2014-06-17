@@ -1,0 +1,7 @@
+{
+    "name": "caseyfw/phoenix-tester",
+    "version": "1.0.0",
+    "require": {
+        "guzzle/guzzle": "3.8.1"
+    }
+}
